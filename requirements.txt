@@ -1,0 +1,12 @@
+streamlit==1.28.0
+pandas==2.1.0
+numpy==1.24.3
+plotly==5.15.0
+nltk==3.8.1
+scikit-learn==1.3.0
+fpdf==4.4.0
+python-dateutil==2.8.2
+seaborn==0.12.2
+matplotlib==3.7.2
+textblob==0.17.1
+wordcloud==1.9.2
